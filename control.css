@@ -1,0 +1,8 @@
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #0004f5;
+  }
+  .wrapper-box{
+    width: 850px !important;
+    box-shadow: 0 0 5px #ccc;
+  }
